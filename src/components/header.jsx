@@ -90,11 +90,6 @@ const Header = () => {
                 </NavLink>
               </li>
               <li>
-                <NavLink href="/admissions" className="text-lg">
-                  Admissions
-                </NavLink>
-              </li>
-              <li>
                 <NavLink href="/contact" className="text-lg">
                   Contact
                 </NavLink>
